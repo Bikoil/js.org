@@ -345,6 +345,7 @@ var cnames_active = {
   "bhailang": "dullabs.github.io/bhai-lang",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "biggames": "jacobhumston.github.io/biggames.js",
+  "bikoil": "biko.is-a.dev/magicord",
   "bijou": "explosion-scratch.github.io/bijou.js",
   "bilioutils": "catlair.github.io/BiliOutils",
   "bin": "sujalgoel.github.io/impostor-bin",
